@@ -7,7 +7,7 @@ The application base URI is http://localhost:8080/
 
 The application is a .jar file which could be executed at command prompt as 
 
-> java -jar 
+> java -jar Assesment-0.0.1-SNAPSHOT.jar
 
 The API calls are as below:
 
